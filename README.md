@@ -39,8 +39,3 @@ Since I am in the learning phase, there might be some mistakes, but this project
    - Printed accuracy results for performance measurement.
 
 ---
-
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone <your-repo-link>
